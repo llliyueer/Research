@@ -9,7 +9,7 @@ Undertaking the project on "**Research on the high-resolution quantitative recon
 **The research results is shown in *Visualization_Yueer_LI.gif*.**
 
 First-authored publications:
-1.	 Li, Y*., Cheng, Z., Yang, C., Wei, M., Wen, J#. Application of Binocular Stereo Vision in Radioactive Source Reconstruction and Multimodal Image Fusion. IEEE Transactions on Nuclear Science. Peer-reviewed.(Journal)
-2.	 Li, Y*., Cheng, Z., Yang, C., Wei, M., Wen, J#. Parameter Estimation Using Binocular Camera for Accurate Radioactive Source Reconstruction. IEEE I2MTC. Peer-reviewed. (Conference)
+1.	 **Li, Y** *., Cheng, Z., Yang, C., Wei, M., Wen, J#. Application of Binocular Stereo Vision in Radioactive Source Reconstruction and Multimodal Image Fusion. IEEE Transactions on Nuclear Science. Peer-reviewed.(Journal)
+2.	 **Li, Y** *., Cheng, Z., Yang, C., Wei, M., Wen, J#. Parameter Estimation Using Binocular Camera for Accurate Radioactive Source Reconstruction. IEEE I2MTC. Peer-reviewed. (Conference)
 
 I will send you the submitted manuscripts if necessary.
