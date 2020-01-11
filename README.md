@@ -1,7 +1,7 @@
 # Research in 3D Reconstruction
 
-## project: "**High-resolution quantitative reconstruction of gamma source and multi-modal augmented reality technology**"
-### tasks:
+## Project: "**High-resolution quantitative reconstruction of gamma source and multi-modal augmented reality technology**"
+### Tasks:
 
 -  Reconstruct the appearance of container by a binocular camera. 
 -  Reconstruct the gamma-ray sources by a gamma camera.
@@ -11,7 +11,7 @@
 -  Visualize the container and the gamma-ray sources simultaneously, with an adjustable transparency of the container.
 
 
-### results: see **Visualization_Yueer_LI.gif**.
+### Results: see **Visualization_Yueer_LI.gif**.
 
 
 
